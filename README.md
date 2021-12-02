@@ -4,6 +4,4 @@ Link de la carpeta de validación de MedleyS: https://drive.google.com/file/d/1K
 
 Link de la carpeta de entrenamiento de MedleyS:
 
-Link de la carpeta del set de datos completo de MedleyS:
-
-Link de la carpeta de validación de IRMAS: 
+Link de la carpeta de validación de IRMAS:  https://drive.google.com/file/d/1o2GNSOi1Y8LuO4RUimDD4Oow-Qol7FUo/view?usp=sharing
